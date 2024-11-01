@@ -1,7 +1,0 @@
-.tpl{
-  /* font-family:Novascript,bn,hi,hy,ja,ka,km,ko,ml,my,cursive */
-}
-.tpl p:after{
-  filter:url(#lightE1)
-}
-*{lighting-color:#fff}
